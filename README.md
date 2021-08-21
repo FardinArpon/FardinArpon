@@ -8,7 +8,6 @@ I'm currently working as a Software Engineer in Test with different types of pro
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FardinArpon&langs_count=8&hide=shell,java,html,css,scss,php,vue" />
 </a>
 
-
 ## Find me around the web 🌎:
 - Sharing updates on <a href="https://www.linkedin.com/in/fardin-amin-arpon-319b671aa/">LinkedIn</a>
-- <a href="https://www.facebook.com/FardinAminArpon">Facebook</a>
+- Stay Connect with me <a href="https://www.facebook.com/FardinAminArpon">Facebook</a> <a href="https://www.instagram.com/fardin_amin_arpon/">Instagram</a>
