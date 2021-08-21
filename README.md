@@ -1,4 +1,4 @@
-# Hi, I'm Fardin Arpon 👋
+# Hi, I'm Fardin Arpon👋
 I'm currently working as a Software Engineer in Test with different types of projects such as SQA, Software Automation, Manual testing, API testing, Web & Mobile application testing, Database testing, Web design & development.
 
 <a href="https://github.com/FardinArpon">
