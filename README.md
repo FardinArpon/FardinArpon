@@ -14,10 +14,10 @@
 
 <a href="https://github.com/FardinArpon">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=FardinArpon&show_icons=true&count_private=true&hide=contribs&line_height=30" />
-</a><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FardinArpon&" alt="FardinArpon" /></p>
+
 <a href="https://github.com/FardinArpon">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FardinArpon&langs_count=8&hide=shell,scss,less,vue,less_height=30" /></a>
-
+</a><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FardinArpon&" alt="FardinArpon" /></p>
 
 
 
