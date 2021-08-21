@@ -5,7 +5,8 @@ I'm currently working as a Software Engineer in Test with different types of pro
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=FardinArpon&show_icons=true&count_private=true&hide=contribs&line_height=40" />
 </a>
 <a href="https://github.com/FardinArpon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FardinArpon&langs_count=8&hide=shell,java,html,css,scss,php,vue" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FardinArpon&langs_count=8&hide=shell,scss,php,vue,less
+" />
 </a>
 
 ## Find me around the web 🌎:
