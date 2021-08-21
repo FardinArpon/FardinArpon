@@ -21,5 +21,7 @@
   
   ## Find me around the web 🌎:
 - Sharing updates on <a href="https://www.linkedin.com/in/fardin-amin-arpon-319b671aa/">LinkedIn</a>
-- Stay Connect with me <a href="https://www.facebook.com/FardinAminArpon">Facebook</a> <a href="https://www.instagram.com/fardin_amin_arpon/">Instagram</a>
+- Stay Connect with me <a href="https://www.facebook.com/FardinAminArpon">Facebook ||</a> <a href="https://www.instagram.com/fardin_amin_arpon/"> Instagram </a><a href="https://www.fardinamainarpon@gmail.com"> || Gmail</a>
+
+
 
