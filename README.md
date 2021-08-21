@@ -11,3 +11,4 @@ I'm currently working as a Software Engineer in Test with different types of pro
 
 ## Find me around the web 🌎:
 - Sharing updates on <a href="https://www.linkedin.com/in/fardin-amin-arpon-319b671aa/">LinkedIn</a>
+- <a href="https://www.facebook.com/FardinAminArpon">Facebook</a>
