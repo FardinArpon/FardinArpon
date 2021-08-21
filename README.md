@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fardin Arpon</h1>
 <h3 align="center">I'm currently working as a Software Engineer in Test with different types of projects such as SQA, Software Automation, Manual testing, API testing, Web & Mobile application testing, Database testing, Web design & development.</h3>
 
-<p align="left"> <a href="https://twitter.com/cactus494" target="blank"><img src="https://img.shields.io/twitter/follow/cactus494?logo=twitter&style=for-the-badge" alt="cactus494" /></a> </p>
 
 - 🔭 I’m currently working on **Selenium Java**
 
@@ -16,7 +15,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=FardinArpon&show_icons=true&count_private=true&hide=contribs&line_height=40" />
 </a>
 <a href="https://github.com/FardinArpon">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FardinArpon&langs_count=8&hide=vue,less_height=30" /></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FardinArpon&langs_count=8&hide=vue,less,shell,scss,php,_height=30" /></a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FardinArpon&width=30%" alt="FardinArpon" /></p>
   
