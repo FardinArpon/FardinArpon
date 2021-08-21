@@ -2,10 +2,10 @@
 I'm currently working as a Software Engineer in Test with different types of projects such as SQA, Software Automation, Manual testing, API testing, Web & Mobile application testing, Database testing, Web design & development.
 
 <a href="https://github.com/FardinArpon">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=akmamun&show_icons=true&count_private=true&hide=contribs&line_height=40" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=FardinArpon&show_icons=true&count_private=true&hide=contribs&line_height=40" />
 </a>
 <a href="https://github.com/FardinArpon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akmamun&langs_count=8&hide=shell,java,html,css,scss,php,vue" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FardinArpon&langs_count=8&hide=shell,java,html,css,scss,php,vue" />
 </a>
 
 
