@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fardin Amin Arpon</h1>
-<h3 align="center">I'm currently working as a Software Engineer in Test with different types of projects such as SQA, Software Automation, Manual testing, API testing, Web & Mobile application testing, Database testing, Web design & development.</h3>
+<h3 align="center">I'm currently working as a "Software Engineer in Test". Work in Various projects such as SQA, Software Automation, Manual testing, API testing, Web & Mobile application testing, Database testing. Also Work Web design & development.</h3>
 
 - 🔭 I’m currently working on **Software Automation**
 
