@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **fardinaminarpon@ieee.org**
 
-- ⚡ Fun fact **I love to Guitar Play**
+- ⚡ Fun fact **I 🖤 to Play Guitar🎸**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
