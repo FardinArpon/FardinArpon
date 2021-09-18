@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Fardin Amin Arpon</h1>
 <h3 align="center">I'm currently working as a "Software Engineer in Test". Work in Various projects such as SQA, Software Automation, Manual testing, API testing, Web & Mobile application testing, Database testing. Also Work Web design & development.</h3>
 
-- 🔭 I’m currently working on **Software Automation**
+- 🔭 I’m currently working on **Software Automation Project**
 
 - 💬 Ask me about **Software Quality Test & Automation Engineering**
 
-- 📫 How to reach me **fardinaminarpon@ieee.org**
+<!-- - 📫 How to reach me **fardinaminarpon@ieee.org** -->
 
 - ⚡ Fun fact **I 🖤 to Play Guitar🎸**
 
