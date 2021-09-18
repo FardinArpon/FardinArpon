@@ -24,11 +24,11 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=FardinArpon&show_icons=true&count_private=true&hide=contribs&line_height=40" />
 </a> -->
   <img src = "https://github-readme-stats.vercel.app/api?username=FardinArpon&show_icons=true&theme=white" width="400" />
-<a href="https://github.com/FardinArpon">
+<!-- <a href="https://github.com/FardinArpon">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FardinArpon&langs_count=8&hide=shell,scss,less,less" />
-</a>
+</a> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fardinarpon&show_icons=true&locale=en&layout=compact&langs_count=8&hide=shell,scss,less,vue,less_Width="400" />
 </p>
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=FardinArpon&theme=white&hide_border=false" width="400" />
 
 <!-- <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=FardinArpon&show_icons=true&theme=white" width="400" />
