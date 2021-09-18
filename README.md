@@ -28,6 +28,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FardinArpon&langs_count=8&hide=shell,scss,less,less" />
 </a>
 </p>
+<img src = "https://github-readme-streak-stats.herokuapp.com?user=FardinArpon&theme=white&hide_border=false" width="400" />
 
 <!-- <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=FardinArpon&show_icons=true&theme=white" width="400" />
