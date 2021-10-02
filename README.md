@@ -31,7 +31,7 @@
 <!-- <a href="https://github.com/FardinArpon">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FardinArpon&langs_count=8&hide=shell,scss,less,less" />
 </a> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fardinarpon&show_icons=true&locale=en&layout=compact&langs_count=8&hide=shell,scss,less,vue,less_Width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fardinarpon&show_icons=true&locale=en&layout=compact&langs_count=8&hide=shell,scss,less,vue,css,less_Width="400" />
 </p>
 
 
