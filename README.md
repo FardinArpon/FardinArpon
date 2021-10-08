@@ -46,6 +46,6 @@
   
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fardinarpon&" alt="fardinarpon" /></p>
  -->
-  <a href="https://github.com/salmansrabon/github-readme-activity-graph">
+<!--   <a href="https://github.com/salmansrabon/github-readme-activity-graph">
     <img src="https://activity-graph.herokuapp.com/graph?username=FardinArpon&theme=react-dark&hide_border=true">
-  </a>
+  </a> -->
