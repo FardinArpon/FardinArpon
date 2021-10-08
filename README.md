@@ -3,7 +3,7 @@
  
 <!-- - 🔭 I’m currently working on **Software Automation Project** -->
 
-<h3 align="center"> 💬 Ask me about **Software Quality Test & Automation Engineering**</h3>
+<!-- <h3 align="center"> 💬 Ask me about **Software Quality Test & Automation Engineering**</h3> -->
 
 <!-- - 📫 How to reach me **fardinaminarpon@ieee.org** -->
 
