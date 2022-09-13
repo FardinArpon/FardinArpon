@@ -37,20 +37,6 @@
 </p>
 
 
-<!-- <a href="https://github.com/FardinArpon">
-  <img align="center" src=" src="https://github-readme-stats.vercel.app/api/top-langs?username=fardinarpon&show_icons=true&locale=en&layout=compact&langs_count=8&hide=shell,scss,less,vue,less_Width="fardinarpon" />
-</a> -->
-
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fardinarpon&show_icons=true&locale=en&layout=compact&langs_count=8&hide=shell,scss,less,vue,less_Width="fardinarpon" /></p> -->
-
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fardinarpon&show_icons=true&locale=en" alt="fardinarpon" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fardinarpon&show_icons=true&locale=en&layout=compact&hide=shell,scss,less,less" alt="fardinarpon" /></p>
-  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fardinarpon&" alt="fardinarpon" /></p>
- -->
-<!--   <a href="https://github.com/salmansrabon/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=FardinArpon&theme=react-dark&hide_border=true">
-  </a> -->
   
   
   
