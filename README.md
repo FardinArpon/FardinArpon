@@ -51,3 +51,10 @@
 <!--   <a href="https://github.com/salmansrabon/github-readme-activity-graph">
     <img src="https://activity-graph.herokuapp.com/graph?username=FardinArpon&theme=react-dark&hide_border=true">
   </a> -->
+  
+  
+  
+## Website
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://labbaekratul.xyz/)  
+
+![Profile views](https://gpvc.arturio.dev/labbaekratul)  
