@@ -31,7 +31,7 @@ Additionally, I am a Level One seller on Fiverr, having completed 45+ orders, wh
 <!-- <a href="https://github.com/FardinArpon">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=FardinArpon&show_icons=true&count_private=true&hide=contribs&line_height=40" />
 </a> -->
-  <img src = "https://github-readme-stats.vercel.app/api?username=FardinArpon&show_icons=true&theme=white" width="400" />
+  <!-- <img src = "https://github-readme-stats.vercel.app/api?username=FardinArpon&show_icons=true&theme=white" width="400" /> -->
 <!-- <a href="https://github.com/FardinArpon">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FardinArpon&langs_count=8&hide=shell,scss,less,less" />
 </a> -->
