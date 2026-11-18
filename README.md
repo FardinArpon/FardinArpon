@@ -5,7 +5,7 @@
 
 <!-- <h3 align="center"> 💬 Ask me about **Software Quality Test & Automation Engineering**</h3> -->
 
-<!-- - 📫 How to reach me **fardinaminarpon@ieee.org** -->
+<h4 align="center"> 📫 How to reach, ask me https://fardinarpon.me </h4> 
 
 <!-- - ⚡ Fun fact **I 🖤 to Play Guitar🎸** -->
 <!-- 
