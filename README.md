@@ -7,7 +7,7 @@ Additionally, I am a Level One seller on Fiverr, having completed 45+ orders, wh
 
 <!-- <h3 align="center"> 💬 Ask me about **Software Quality Test & Automation Engineering**</h3> -->
 
-<h4 align="center"> 📫 How to reach, ask me https://fardinarpon.me </h4> 
+<h4 align="center"> 📫 How to reach, https://fardinarpon.me </h4> 
 
 <!-- - ⚡ Fun fact **I 🖤 to Play Guitar🎸** -->
 <!-- 
