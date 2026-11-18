@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Fardin Amin Arpon</h1>
-<h3 align="center">I'm currently working as a "Software Engineer in Test". Work in Various projects Software Automation, DevOps, SQA, Manual testing, API testing, Web & Mobile application testing,Database testing</h3>
- 
+<h3 align="center"> Software Engineer in Test & Product Quality Assurance, AI-ML Researcher, Freelancer, ISTQB® & CSM certified</h3>
+I have more than 5 years of experience testing web and mobile products across EdTech, FinTech and service domains. I currently work as a QA Automation Test Engineer at Connex Pay, and before that I spent three years in product assurance at Programming Hero, working directly with clients, developers and management.
+
+Additionally, I am a Level One seller on Fiverr, having completed 45+ orders, where I have maintained a 4.9* rating with positive reviews from customers. Alongside testing, I mentor aspiring QA engineers (100+ students so far), conduct seminars, and publish research in AI & Machine learning, with a graduation degree in computer science.
 <!-- - 🔭 I’m currently working on **Software Automation Project** -->
 
 <!-- <h3 align="center"> 💬 Ask me about **Software Quality Test & Automation Engineering**</h3> -->
